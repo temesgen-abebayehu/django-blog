@@ -69,7 +69,12 @@
 
   header .navbar a{
     text-decoration: none;
+<<<<<<< HEAD
     color: rgb(40, 29, 29);
+=======
+    background-color: rgb(31, 103, 103);
+    color: white;
+>>>>>>> 27395ec (Initial commit)
     padding: 5px;
     border-radius: 5px;
     
