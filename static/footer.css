@@ -1,0 +1,22 @@
+footer .content{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: rgb(123, 110, 110);
+  }
+  
+  footer #contact{
+    padding: 20px 15px;
+  }
+
+  footer #info{    
+    padding: 20px 15px;
+    display: flex;
+    flex-direction: column;
+  }
+
+  footer #info a{
+    text-decoration: none;
+    color: black;
+    margin-bottom: 10px;
+  }
